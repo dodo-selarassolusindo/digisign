@@ -142,7 +142,7 @@
     </div>
     <!-- /.content-wrapper -->
     <footer class="main-footer">
-        <strong>Copyright &copy; 2021 | DIGITAL SIGNATURE | Ahmad Farisi </strong>
+        <strong>Copyright &copy; <?= date('Y') ?> | DIGITAL SIGNATURE | Syariful Alim </strong>
     </footer>
 
     <!-- Control Sidebar -->

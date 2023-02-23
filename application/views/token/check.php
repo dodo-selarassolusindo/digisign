@@ -36,7 +36,7 @@
             <img src="<?php echo site_url('resources/img/logo.png')?>" class="img-responsive" />
         </center>
 
-        <h3 class="page-header text-center">Verifikasi Tanda Tangan Digital<br/>Ahmad Farisi</h3>
+        <h3 class="page-header text-center">Verifikasi Tanda Tangan Digital<br/>PT. Geomosaic Indonesia</h3>
 
         <p align="center"> <label class="control-label">Tanda Tangan Digital Dibuat Pada :</label></p>
         <div class="form-group has-feedback">
